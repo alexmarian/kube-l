@@ -4,3 +4,4 @@
  - kubectl proxy
  - minikube addons enable ingress
  - minikube tunnel -c
+ - minikube addons enable metrics-server
